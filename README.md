@@ -1,0 +1,2 @@
+# MybatisSpringIntergration
+学习mybatis集成到spring解决之前绑定失败的问题
